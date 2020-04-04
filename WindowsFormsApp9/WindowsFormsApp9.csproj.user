@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="createNewDbServerDbNameForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="createNewJobForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainFormSqlBackup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userLoginForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="userRegisterForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
